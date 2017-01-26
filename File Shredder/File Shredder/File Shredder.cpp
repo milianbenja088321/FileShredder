@@ -48,11 +48,10 @@ int main()
 		
 		if (GetAsyncKeyState(VK_RETURN))
 		{
-			// CHECK WHICH MENU ITEM IS SELECTED
-			if (csrY == 6)
-			{
-				exit(0);
-			}
+			// CHOOSE FILE (TEST)
+			if (csrY == 4) { file.GetInputFile(); }
+			// EXIT THE APPLICATION
+			if (csrY == 6) { exit(0); }
 		}
 
 		file.Display();
