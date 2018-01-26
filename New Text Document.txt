@@ -1,5 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-lacus, at condimentum sem ullamcorper id. 
-Quisque tincidunt scelerisque nulla quis pulvinar. 
-Nam tempor justo eget massa bibendum, non mollis mi rutrum. 
-Sed et aliquet sapien. Etiam mollis suscipit massa.

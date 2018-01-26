@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PUN Vurforia Test", "PUN Vurforia Test.csproj", "{EBAF5CC9-64C6-56D5-DE2E-CEFA3670543C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PUN Vurforia Test.Plugins", "PUN Vurforia Test.Plugins.csproj", "{F733F85D-2E91-04FC-7EF8-091E6FF38B05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PUN Vurforia Test.Editor", "PUN Vurforia Test.Editor.csproj", "{AD7DC088-4DC5-AD4D-FD50-8709A1AD1AB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBAF5CC9-64C6-56D5-DE2E-CEFA3670543C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBAF5CC9-64C6-56D5-DE2E-CEFA3670543C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBAF5CC9-64C6-56D5-DE2E-CEFA3670543C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBAF5CC9-64C6-56D5-DE2E-CEFA3670543C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F733F85D-2E91-04FC-7EF8-091E6FF38B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F733F85D-2E91-04FC-7EF8-091E6FF38B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F733F85D-2E91-04FC-7EF8-091E6FF38B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F733F85D-2E91-04FC-7EF8-091E6FF38B05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7DC088-4DC5-AD4D-FD50-8709A1AD1AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7DC088-4DC5-AD4D-FD50-8709A1AD1AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7DC088-4DC5-AD4D-FD50-8709A1AD1AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7DC088-4DC5-AD4D-FD50-8709A1AD1AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
